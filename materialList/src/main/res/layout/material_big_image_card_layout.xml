@@ -25,7 +25,8 @@
 
             <TextView android:id="@+id/title"
                       style="@style/Material_Card_Title"
-a                      android:layout_alignParentBottom="true"
+                      android:layout_alignParentBottom="true"
+                      android:layout_centerInParent="true"
                       tools:text="Title"/>
         </RelativeLayout>
 
